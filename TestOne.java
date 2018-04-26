@@ -21,3 +21,4 @@ COOL3
 COOL4
 COOL5
 Latest1
+Latest2

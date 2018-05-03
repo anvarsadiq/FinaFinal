@@ -7,6 +7,7 @@ Three
 Fixes
 Feature4
 Feature3
+New Fix
 FeatureNew4
 Changing
 ChangingNotMe

@@ -7,6 +7,7 @@ Feature2
 Three
 Fixes
 Feature4
+Cool
 Fixing issue
 Feature3
 New Fix

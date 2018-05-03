@@ -6,6 +6,7 @@ Feature2
 Three
 Fixes
 Feature4
+Fixing issue
 Feature3
 FeatureNew4
 Changing

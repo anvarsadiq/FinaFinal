@@ -8,6 +8,7 @@ Fixes
 Feature4
 Fixing issue
 Feature3
+New Fix
 FeatureNew4
 Changing
 ChangingNotMe

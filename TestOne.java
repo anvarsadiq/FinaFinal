@@ -26,6 +26,7 @@ COOL2
 COOL3
 COOL4
 COOL5
+COOL6
 HI
 Latest1
 Latest2

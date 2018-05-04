@@ -9,6 +9,7 @@ Fixes
 Feature4
 Cool
 Fixing issue
+COOL6
 Feature3
 Few Changes
 FeatureNew4

@@ -9,4 +9,6 @@ Feature2Change1
 FeatureNew4
 Changing
 Feature2Change2
+Feature2Change2
 Changes
+Another change

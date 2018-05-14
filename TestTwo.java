@@ -12,4 +12,7 @@ Feature2Change2
 Feature2Change2
 Changes
 Another change
+Change1
+Change2
+Change3
 Chang4
